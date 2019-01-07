@@ -4,7 +4,7 @@ body {
 }
 
 #body{
-    background-image: url("../img/back.jpg");
+    background-image: url("../img/back1.jpg");
     /* background-color:rgba(0, 0, 0, 0.7); */
   background-size: cover;
   background-attachment: fixed;
@@ -31,10 +31,10 @@ body {
   background-color: white;
 }
 
-#card1:hover{
-  background-color: #00B4DB;
+/* #card1:hover{
+  background-color: white;
   color:white;
-}
+} */
 .fa-github {
     color: black;
   }
@@ -72,12 +72,10 @@ body {
   font-size: 2em;
 
 }
-
-
 #name{
   font-family: 'Roboto Mono', monospace;
   font-size: 2em;
-  color: #eece1a;
+  color: white;
   font-weight: bold;
 }
 
@@ -97,7 +95,7 @@ footer{
 #hello{
   font-family: 'Roboto Mono', monospace;
   font-size: 2em;
-  color: #bdbdbd;
+  color: white;
 
 }
 hr{
