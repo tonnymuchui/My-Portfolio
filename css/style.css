@@ -1,13 +1,13 @@
 
 /* import fonts from fonts.css file */ 
-@import url(./fonts.css);
+@import url(fonts.css);
 
 
 /* css variables */ 
-@import url(./_variables.css);
+@import url(_variables.css);
 
 /* import global styling */ 
-@import url(./_global.css);
+@import url(_global.css);
 
 
 /* start navigation */ 
